@@ -1,0 +1,9 @@
+.total{
+    position: absolute;
+    color:rgb(220, 156, 156);
+    top: 50;
+    right: 0;
+}
+.total:hover{
+    color: black;
+}
